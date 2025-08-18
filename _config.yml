@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
+  zhihu:  # ning-meng-cheng-31-94
+  email:  # llong87@163.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: jackwho1905 # jackwho1905
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -63,17 +63,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  clientID: Ov23ctCsS7baL8u90pbd
+  clientSecret: 55af7a20e8eea2effebe36c6219c42baf4cbfaba
+  repo: jackwho1905.github.io
+  owner: jackwho1905
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+url: https://jackwho1905.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
