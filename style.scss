@@ -359,10 +359,15 @@ img {
   }
 
   .site-avatar {
+
+    // position: absolute;
+    // top: 10%;
+    // left: 20%;
+
     margin:0 auto;
     display: block;
     max-width: 200px;
-    max-height: 200px;
+    max-height: 300px;
 
     @include mobile {
       max-width: 120px;
